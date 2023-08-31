@@ -1,3 +1,3 @@
 # BasicInventoryNakon
 
-This is my first file upload in GitHud! 
+This is my first file uploaded on GitHud! 
